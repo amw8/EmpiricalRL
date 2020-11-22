@@ -1,7 +1,7 @@
 # EmpiricalRL
 Repo for UofA Empirical RL Grad class Winter 2021
 
-<b>Prerequisites:</b> A undergraduate or graduate level course on Reinforcement Learning (e.g., CMPUT 397, CMPUT 366 from 2018), or successfully complete the 4-course UofA RL MOOC (uab.ca/RLMOOC).
+<b>Prerequisites:</b> An undergraduate or graduate level course on Reinforcement Learning (e.g., CMPUT 397, CMPUT 366 from 2018), or successfully complete the 4-course <a href="uab.ca/RLMOOC">UofA RL MOOC</a>.
 
 This is an advanced class on Reinforcement Learning. We will not cover the basics of RL; it will be assumed students already know the material.
 
