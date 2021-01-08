@@ -1,6 +1,6 @@
 # EmpiricalRL Syllabus (subject to change)
 
-<a href="syllabus.md">EmpiricalRL Syllabus</a>
+<a href="https://amw8.github.io/EmpiricalRL/syllabus">EmpiricalRL Syllabus</a>
 <br>
 <br>
 CMPUT 607: Empirical Reinforcement Learning
