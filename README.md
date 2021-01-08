@@ -1,4 +1,19 @@
 # EmpiricalRL 
 
-<a href="https://amw8.github.io/EmpiricalRL/syllabus">EmpiricalRL Syllabus</a>
+<h3> Important Links:</h3>
+<ul>
+<li><a href="https://amw8.github.io/EmpiricalRL/syllabus">EmpiricalRL Syllabus</a></li>
+<li><a href="https://eclass.srv.ualberta.ca/course/view.php?id=68097">Eclass Page video links and private class materials</a></li>
+<li><a href="empirical-rl.slack.com">Slack group for class discussion and announcements </a></li>
+</ul>
 
+<h3> Schedule </h3>
+
+
+
+
+
+Week | Date | Topic | Deadlines
+------------ | ------------- | ------------- | -------------
+1| January 11 |<a href="slides/lec1.pdf">  Introduction </a> <br/> <br/>  
+1| January 13 |<a href="slides/lec2.pdf">  RL Review </a> <br/> <br/>  
