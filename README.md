@@ -3,8 +3,8 @@
 <h3> Important Links:</h3>
 <ul>
 <li><a href="https://amw8.github.io/EmpiricalRL/syllabus">EmpiricalRL Syllabus</a></li>
-<li><a href="https://eclass.srv.ualberta.ca/course/view.php?id=68097">Eclass Page video links and private class materials</a></li>
-<li><a href="empirical-rl.slack.com">Slack group for class discussion and announcements </a></li>
+<li><a href="https://eclass.srv.ualberta.ca/course/view.php?id=68097">Eclass Page: video links and private class materials</a></li>
+<li><a href="https://empirical-rl.slack.com">Slack group: class discussion and announcements </a></li>
 </ul>
 
 <h3> Schedule </h3>
