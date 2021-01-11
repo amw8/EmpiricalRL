@@ -21,7 +21,7 @@ This course will focus on doing good experiments in reinforcement learning (RL).
 
 This course is all about evaluations and methodical concerns in RL. It can be seen as a followup to CMPUT 603, where we focus on the issues specific to RL and with a more significant focus on the final project and scientific communication. 
 
-The first part of the course will be lecture based, and the second half will consist almost entirely of student presentations and discussions. The end goal is to teach you how to conduct and excellent empirical study in RL.
+The first part of the course will be lecture based, and the second half will consist almost entirely of student presentations and discussions. The end goal is to teach you how to conduct an excellent empirical study in RL.
 
 We will cover:
 <ul>
