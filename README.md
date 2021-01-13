@@ -15,5 +15,6 @@
 
 Week | Date | Topic | Deadlines | Session Moderator
 ------------ | ------------- | ------------- | ------------- | -------------
-1| January 11 |<a href="slides/lec1.pdf">  Introduction </a> | | Derek Li (TA) <br/> <br/>  
+1| January 11 |<a href="slides/lec1.pdf">  Introduction </a> | |  <br/> <br/>  
 1| January 13 |<a href="slides/lec2.pdf">  RL Review </a> | | Archit Sakhadeo (TA) <br/> <br/>
+1| January 13 | Quiz on Eclass (no lecture) | | NA <br/> <br/>
