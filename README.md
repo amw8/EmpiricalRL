@@ -6,6 +6,11 @@
 <li><a href="https://eclass.srv.ualberta.ca/course/view.php?id=68097">Eclass Page: video links and private class materials</a></li>
 <li><a href="https://empirical-rl.slack.com">Slack group: class discussion and announcements </a></li>
 </ul>
+<br>
+<br>
+<b> Office hours: Tuesday 6pm Edmonton time </b>, and directly after lecture.
+<br>
+<br>
 
 <h3> Schedule </h3>
 
