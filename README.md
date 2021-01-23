@@ -23,4 +23,5 @@ Week | Date | Topic | Deadlines | Session Moderator
 1| January 11 |<a href="slides/lec1.pdf">  Introduction </a> | |  <br/> <br/>  
 1| January 13 |<a href="slides/lec2.pdf">  RL Review </a> | | Archit Sakhadeo (TA) <br/> <br/>
 2| January 18 | Quiz on Eclass (no lecture) | | NA <br/> <br/>
-2| January 20 | Quiz retrospective | | NA <br/> <br/>
+2| January 20 | <a href="slides/lec4.pdf"> Quiz retrospective</a> | | Archit <br/> <br/>
+3| January 25 | Roadmaps and issues | | Archit <br/> <br/>
