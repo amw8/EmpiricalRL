@@ -26,3 +26,5 @@ Week | Date | Topic | Deadlines | Session Moderator
 2| January 20 | <a href="slides/lec4.pdf"> Quiz retrospective</a> | | Archit <br/> <br/>
 3| January 25 | <a href="slides/lec5.pdf"> Roadmaps and issues </a> | | Li, Derek <br/> <br/>
 3| January 27 | <a href="slides/lec6.pdf"> Critiques of ML scholarship </a> | | Tata,Ganesh; Lo,Chunlok <br/> <br/>
+4| Feb 1 | <a href="slides/lec7.pdf"> Methadologies for RL research </a> | | Johnstonbaugh,Kerrick; Burega,Bradley Thomas <br/> <br/>
+4| Feb 3 | <a href="slides/lec7.pdf"> Methadologies for RL research </a> | | Mihucz,Gabor <br/> <br/>
