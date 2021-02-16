@@ -28,3 +28,5 @@ Week | Date | Topic | Deadlines | Session Moderator
 3| January 27 | <a href="slides/lec6.pdf"> Critiques of ML scholarship </a> | | Tata,Ganesh; Lo,Chunlok <br/> <br/>
 4| Feb 1 | <a href="slides/lec7.pdf"> Methadologies for RL research </a> | | Johnstonbaugh,Kerrick; Burega,Bradley Thomas <br/> <br/>
 4| Feb 3 | <a href="slides/lec7.pdf"> Methadologies for RL research </a> | | Mihucz,Gabor <br/> <br/>
+5| Feb 8 | <a href="slides/lec8.pdf"> The data of RL experiments </a> | |  <br/> <br/>
+5| Feb 10 | <a href="slides/lec8.pdf"> Data (continued) & Presentation advice </a> | | Tiriac,Valentin <br/> <br/>
