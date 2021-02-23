@@ -30,3 +30,4 @@ Week | Date | Topic | Deadlines | Session Moderator
 4| Feb 3 | <a href="slides/lec7.pdf"> Methadologies for RL research </a> | | Mihucz,Gabor <br/> <br/>
 5| Feb 8 | <a href="slides/lec8.pdf"> The data of RL experiments </a> | |  <br/> <br/>
 5| Feb 10 | <a href="slides/lec8.pdf"> Data (continued) & Presentation advice </a> | | Tiriac,Valentin <br/> <br/>
+6| Feb 10 | <a href="slides/lec9.pdf"> Statistical analysis of RL exp </a> | | Taghian Jazi, Mehran <br/> <br/>
