@@ -32,4 +32,8 @@ Week | Date | Topic | Deadlines | Session Moderator
 6| Feb 22 | <a href="slides/lec9.pdf"> Statistical analysis of RL exp </a> | | Taghian Jazi, Mehran <br/> <br/>
 6| Feb 24 | Student Presentations <a href="presentations/Offline_Eval.pdf">Revan</a> and Jesse | | Shah,Haseeb <br/> <br/>
 7| March 1 | Student Presentations <a href="presentations/tmp.pdf">Kerrick</a> | | MacQueen, Revan <br/> <br/>
-7| March 3 | Student Presentations <a href="presentations/tmp.pdf">Daniel & Ruo</a> | | Masoumzadeh Tork, Abbas <br/> <br/>
+7| March 3 | Student Presentations <a href="presentations/tmp.pdf">Daniel & David</a> | | Masoumzadeh Tork, Abbas <br/> <br/>
+8| March 8 | Student Presentations Eric & <a href="presentations/valentin.pdf">Valentin</a> | | Miahi,Erfan <br/> <br/>
+8| March 10 | Student Presentations <a href="presentations/brad.pdf">Brad</a> & Paul | | Austin,Eric <br/> <br/>
+9| March 13 | Student Presentations <a href="presentations/erfan.pdf">Erfan</a> & Ganesh | | Wang,Han <br/> <br/>
+9| March 17 | Student Presentations <a href="presentations/tmp.pdf">Abbas Masoumzadeh</a> | | Plop,Daniel <br/> <br/>
