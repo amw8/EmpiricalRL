@@ -36,4 +36,4 @@ Week | Date | Topic | Deadlines | Session Moderator
 8| March 8 | Student Presentations Eric & <a href="presentations/valentin.pdf">Valentin</a> | | Miahi,Erfan <br/> <br/>
 8| March 10 | Student Presentations <a href="presentations/brad.pdf">Brad</a> & Paul | | Austin,Eric <br/> <br/>
 9| March 13 | Student Presentations <a href="presentations/erfan.pdf">Erfan</a> & Ganesh | | Wang,Han <br/> <br/>
-9| March 17 | Student Presentations <a href="presentations/tmp.pdf">Abbas Masoumzadeh</a> | | Plop,Daniel <br/> <br/>
+9| March 17 | Student Presentations Abbas Masoumzadeh & <a href="slides/ScientificWriting.pdf">On Writing</a> | | Plop,Daniel <br/> <br/>
