@@ -36,4 +36,8 @@ Week | Date | Topic | Deadlines | Session Moderator
 8| March 8 | Student Presentations Eric & <a href="presentations/valentin.pdf">Valentin</a> | | Miahi,Erfan <br/> <br/>
 8| March 10 | Student Presentations <a href="presentations/brad.pdf">Brad</a> & Paul | | Austin,Eric <br/> <br/>
 9| March 13 | Student Presentations <a href="presentations/erfan.pdf">Erfan</a> & Ganesh | | Wang,Han <br/> <br/>
-9| March 17 | Student Presentations Abbas Masoumzadeh & <a href="slides/ScientificWriting.pdf">On Writing</a> | | Plop,Daniel <br/> <br/>
+9| March 17 | Student Presentations Mehran Taghian & <a href="slides/ScientificWriting.pdf">On Writing</a> | | Plop,Daniel <br/> <br/>
+10| March 22 | Student Presentations Abbas Masoumzadeh & <a href="slides/Reviewing.pdf">On Reviewing</a> | | N/A <br/> <br/>
+10| March 25 | Student Presentations Haseeb Shah & Derek Li | | Rahman,Saidur <br/> <br/>
+11| March 29 | Student Presentations Saidur Rahman & Samuel Neumann | | Liu,Paul Puer <br/> <br/>
+11| March 31 | Student Presentations Gabor Mihucz & N/A | | Neumann,Samuel Frederick <br/> <br/>
