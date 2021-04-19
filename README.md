@@ -30,7 +30,7 @@ Week | Date | Topic | Deadlines | Session Moderator
 5| Feb 8 | <a href="slides/lec8.pdf"> The data of RL experiments </a> | |  <br/> <br/>
 5| Feb 10 | <a href="slides/lec8.pdf"> Data (continued) & Presentation advice </a> | | Tiriac,Valentin <br/> <br/>
 6| Feb 22 | <a href="slides/lec9.pdf"> Statistical analysis of RL exp </a> | | Taghian Jazi, Mehran <br/> <br/>
-6| Feb 24 | Student Presentations <a href="presentations/Offline_Eval.pdf">Revan</a> and Jesse | | Shah,Haseeb <br/> <br/>
+6| Feb 24 | Student Presentations <a href="presentations/Offline_Eval.pdf">Revan</a> and <a href="presentations/jesse.pdf">Jesse</a> | | Shah,Haseeb <br/> <br/>
 7| March 1 | Student Presentations <a href="presentations/tmp.pdf">Kerrick</a> | | MacQueen, Revan <br/> <br/>
 7| March 3 | Student Presentations <a href="presentations/tmp.pdf">Daniel & David</a> | | Masoumzadeh Tork, Abbas <br/> <br/>
 8| March 8 | Student Presentations Eric & <a href="presentations/valentin.pdf">Valentin</a> | | Miahi,Erfan <br/> <br/>
